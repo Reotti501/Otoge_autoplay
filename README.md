@@ -6,6 +6,6 @@
 
 デモ画像
 1．
-![alt text](image.png)
+![alt text](demo/image-1.png)
 2．
-![alt text](image-1.png)
+![alt text](demo/image.png)
