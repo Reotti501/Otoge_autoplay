@@ -1,4 +1,4 @@
-# Rhythmgame_Autoplay
+# Otoge_Autoplay
 
 ## 絶賛作成中！！
 
