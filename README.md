@@ -4,9 +4,6 @@
 
 デモ動画（高画質版）は[こちら](https://drive.google.com/file/d/1IDGyeQOLVGdHsEE7wOO9rZMOzOphsIm0/view?usp=drive_link)
 
-デモ動画
-
-
 デモ画像
 1．
 ![alt text](demo/image-1.png)
